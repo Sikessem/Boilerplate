@@ -37,13 +37,13 @@
   },
   "require": {
     "php": "*",
-    "guzzlehttp/guzzle": "^7.8",
+    "guzzlehttp/guzzle": "^7.9",
     "laravel/sanctum": "^3.3",
-    "laravel/tinker": "^2.8",
-    "livewire/livewire": "^3.3",
+    "laravel/tinker": "^2.10",
+    "livewire/livewire": "^3.6",
     "sikessem/framework": "^0.4.0",
     "sikessem/ui": "^0.7.0",
-    "spatie/laravel-sitemap": "^6.4"
+    "spatie/laravel-sitemap": "^7.3"
   },
   "require-dev": {
     "sikessem/laravel-devtools": "^0.9.0"
