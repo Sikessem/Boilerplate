@@ -20,6 +20,11 @@
 
 Start [PHP][php-home] applications using [Laravel][laravel-home] preconfigured with [TypeScript][typescript-home], [Livewire][livewire-home], [Alpine.js][alpinejs-home], [TailwindCSS][tailwindcss-home] and many others such as [Bun][bun-home], [Vite.js][vitejs-home], [Biome][biome-home], [Pint][pint-home], [PHPStan][phpstan-home], [Larastan][larastan-home], [Rector][rector-home].
 
+> [!WARNING]
+This repository is no longer maintained.
+Refer to [loomkit/starter](https://github.com/loomkit/starter)
+for new updates or contributions.
+
 ## 🔖 Contents
 
 - [Sikessem Starter](#sikessem-starter)
